@@ -7,8 +7,9 @@ It's not ready from prime time so the only way to install it at the moment is to
 
 Newer versions of OS X require KEXTs to be signed.  I'll look into making an installable package in the near future and acquiring a certificate to sign the kext.
 
+Interested in what went into making this?  There's a write-up here: http://definedbehavior.com/reverse-engineering-the-xbox-one-controller/
+
 TODO:
 * Properly release the driver when the controller is unplugged
-* Remap the buttons so they have a more sensible order
 * Enable rumble/responsive triggers
 * Create an installer
